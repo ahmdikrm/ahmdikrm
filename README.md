@@ -14,6 +14,9 @@ Both jobs are full of copy-paste work, which is where my projects come from.
   checks international students' visa applications on Malaysia's EMGS portal
   and keeps the team's Google Sheet up to date. Later moved to Google Apps
   Script so it runs on a schedule in the cloud and emails at key milestones.
+- **[IT Support Toolkit](https://github.com/ahmdikrm/it-support-toolkit)**:
+  PowerShell scripts for everyday service desk checks: PC health reports,
+  safe temp cleanup, layer-by-layer network diagnosis and standard app setup.
 - **Social Engagement Tracker** *(private, client work)*: see the case study below.
 - **Reporting helpers** *(private)*: scripts that sync monitoring keywords
   and refresh daily data sheets for reports.
@@ -79,7 +82,7 @@ in an interview.*
 
 #### Tools I use
 
-`Python` · `Selenium` · `Google Sheets API / gspread` · `Google Apps Script` ·
+`Python` · `PowerShell` · `Selenium` · `Google Sheets API / gspread` · `Google Apps Script` ·
 `Excel` · `Git` · `Talkwalker` · `Boolean search`
 
 📍 Kuala Lumpur, Malaysia
